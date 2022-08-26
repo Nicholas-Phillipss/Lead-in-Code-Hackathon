@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box; 
+  }
+header {
+    color: #fda843;
+    background-color: #8e8e8e;
+    height: 20vh;
+    text-align: center;
+   font-size: 75px;
+}
+header, article, nav, aside {
+  padding: 1em;
+}
